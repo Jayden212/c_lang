@@ -2,4 +2,4 @@
 
 C언어 기초예제
 
-jayden212@codesj.xyz
+lee@codesj.kr
